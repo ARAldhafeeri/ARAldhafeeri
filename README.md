@@ -5,18 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araldhafeeri" alt="araldhafeeri" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, TypeScript**
+- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Spring Boot, Java, TypeScript, SQLite**
 
-- 👨‍💻 All of my projects are available at [coming soon ... :)](coming soon ... :))
-
-- 📝 I regularly write articles on [coming soon ... :)](coming soon ... :))
-
-- 💬 Ask me about **Django, Flask, React, Databases, Testing, Cloud**
-
-- 📫 How to reach me **ar.aldhafeeri11@gmail.com**
-
-- 📄 Know about my experiences [coming soon ... :)](coming soon ... :))
-
+- Books I am aiming to read this year, along with other courses & books:
+  + Designing Data-Intensive Applications
+  + Head first design patterns
+  + Kubernates and Docker - An Enterprise guide
+  + Building Microservices
+  + RabbitMQ In Depth
+  + System design interview v1, v2
 - ⚡ Fun fact **I started with hardware then transitioned into Software**
 
 <h3 align="left">Connect with me:</h3>
