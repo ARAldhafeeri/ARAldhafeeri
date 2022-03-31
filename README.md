@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Spring Boot, Java, TypeScript, SQLite**
 
-- Books I am aiming to read this year, along with other courses & books:
+- Books I am aiming to read this year, along with other courses & books (completed, in progress):
   + Designing Data-Intensive Applications
   + Head first design patterns
   + Kubernates and Docker - An Enterprise guide
