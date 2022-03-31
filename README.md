@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araldhafeeri" alt="araldhafeeri" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, Java, Spring boot**
+- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [coming soon ... :)](coming soon ... :))
 
