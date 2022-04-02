@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araldhafeeri" alt="araldhafeeri" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Spring Boot, Java, TypeScript, SQLite**
+- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, TypeScript, SQLite**
 
 - Books I am aiming to read this year, along with other courses & books (completed, in progress):
   + Designing Data-Intensive Applications
