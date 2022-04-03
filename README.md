@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rakan Aldhafeeri</h1>
-<h3 align="center">Full-Stack Developer " Stronger on the backend side of things :) " from Saudi Arabia</h3>
+<h3 align="center">Full-Stack Developer " Stronger & prefer the backend side of things :) " from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araldhafeeri&label=Profile%20views&color=0e75b6&style=flat" alt="araldhafeeri" /> </p>
 
