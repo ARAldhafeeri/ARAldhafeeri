@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rakan Aldhafeeri</h1>
 <h3 align="center">Full-Stack Developer " Stronger & prefer the backend side of things :) " from Saudi Arabia</h3>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, TypeScript, SQLite**
+- 🌱 I’m currently spending time getting better at  **Docker, Kubernetes, RabbitMQ, Microservices, System Design, Programming, Algorithms & Data structure**
 
-- Books I am aiming to read this year, along with other courses & books (completed, in progress):
-  + Designing Data-Intensive Applications
-  + Head first design patterns
-  + Kubernates and Docker - An Enterprise guide
-  + Building Microservices
-  + RabbitMQ In Depth
-  + System design interview v1, v2
 - ⚡ Fun fact **I started with hardware then transitioned into Software**
 
 <h3 align="left">Connect with me:</h3>
