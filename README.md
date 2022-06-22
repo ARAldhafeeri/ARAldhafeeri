@@ -9,7 +9,7 @@
 
 - I am currently reading **RabbitMq In Depth**
 
-- 🌱 I’m currently learning ** Event-Driven architecture, CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, NodeJS**
+- 🌱 I’m currently learning **  I am currenlty learning CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, Also random techincal books**
 
 - 💬 Ask me about **Server-side programming, Databases, Testing, DevOps**
 
