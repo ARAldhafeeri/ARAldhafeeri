@@ -4,13 +4,13 @@
 
 - I am currently reading **RabbitMq In Depth**
 
-- 🌱 I’m currently learning **  I am currenlty learning CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, Also random techincal books**
+- 🌱 I am currenlty learning CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Java**
+
 
 - 💬 Ask me about **Server-side programming, Databases, Testing, DevOps**
 
 - 📫 How to reach me **ar.aldhafeeri11@gmail.com**
 
-- ⚡ Fun fact **I started with hardware then transitioned into Software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
