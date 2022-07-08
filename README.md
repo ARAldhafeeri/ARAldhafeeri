@@ -2,7 +2,7 @@
 <h3 align="center">I am backend developer from Saudi Arabia</h3>
 
 
-- I am currently reading **RabbitMq In Depth**
+- I am currently reading **Designing Data-Intensive Applications**
 
 - 🌱 I am currenlty learning CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Java**
 
