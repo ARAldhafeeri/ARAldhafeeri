@@ -4,7 +4,7 @@
 
 - I am currently reading **Designing Data-Intensive Applications**
 
-- 🌱 I am currenlty learning CI/CD, Docker, Kubernetes, RabbitMQ, Microservices, NodeJS, Java**
+- 🌱 I am currenlty learning  Kubernetes, high availablity, software security**
 
 
 - 💬 Ask me about **Server-side programming, Databases, Testing, DevOps**
