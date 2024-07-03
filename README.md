@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Currently Learning/Improving In
-- Go
+- Shipping solutions faster with good design through contracting, building in public.
 - System Design
 - Algorithms and Data Structures
 
